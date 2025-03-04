@@ -44,19 +44,17 @@ We measured sorting algorithm execution times using **C#'s Stopwatch**. The data
 ## 👥 Team Members
 | Name | Registration No. | Department |
 |------|----------------|------------|
-| **DEIE Manodya G.P.** | EG/2022/5186 | DEIE |
-| **COM Dassanayake D.M.B.C.** | EG/2022/4984 | COM |
-| **DEIE Manthreerathnasekara H.A.S.S.** | EG/2022/5187 | DEIE |
+| **Manodya G.P.** | EG/2022/5186 | DEIE |
+| **Dassanayake D.M.B.C.** | EG/2022/4984 | COM |
+| **Manthreerathnasekara H.A.S.S.** | EG/2022/5187 | DEIE |
 
 ## 📜 License
 This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
 
 ## 📧 Contact
 For any inquiries, feel free to reach out:  
-📩 Email: example@email.com  
-🌐 Website: [www.componeX.com](https://example.com)
-
+📩 Email: shnofficialmail@gmail.com 
 ---
 
-> _Developed by Group No. 34 - University of Ruhuna_
+> _Developed by DSA Project Group No.34 - Faculty of engineering , University of Ruhuna_
 
