@@ -40,15 +40,12 @@ We measured sorting algorithm execution times using **C#'s Stopwatch**. The data
 
 ![Performance Graph](assets/performance_chart.png)
 
-## 🎥 System Demonstration
-🔹 Watch the demo video below:
 
-<div style="position:relative; width:100%; height:0px; padding-bottom:65.811%">
-    <iframe allow="fullscreen" allowfullscreen height="100%" 
-        src="https://streamable.com/e/3e6p2q?" width="100%" 
-        style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;">
-    </iframe>
-</div>
+## 🎥 System Demonstration
+🔹 Click the below to watch the demo video:
+
+[![Demo Video](assets/video-thumbnail.jpg)](https://streamable.com/e/3e6p2q)
+
 
 ## 👥 Team Members
 | Name | Registration No. | Department |
